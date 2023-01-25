@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**allenvox/allenvox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Currently working on
+1. [Moofee](https://github.com/allenvox/moofee) — Telegram chatbot. Stack: Golang, [go-telegram-bot-api](https://github.com/go-telegram-bot-api)
+2. [Fine](https://github.com/allenvox/fine) — Minecraft plugin. Stack: Apache Maven, Spigot API, Google Gson
+### ✍ Currently learning
+1. Golang
+2. Java
+3. C, C++ (data structures & algorithms) (university)
+4. Rust
+### 💡 Also have skills in
+1. JavaScript (NodeJS + front-end)
+2. Swift (macOS/iOS app development)
+3. Python
