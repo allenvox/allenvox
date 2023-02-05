@@ -3,16 +3,18 @@
 <br>
 ❗ Majors — System Programming, Fundamental Informatics
 <br>
-👷 Open to offers
-<br>
 🗣 Spoken languages: 🇷🇺 Russian (native), 🇬🇧🇺🇸 English (C1), 🇩🇪 German (C1 — confirmed ZfA DSD II diploma)
+<br>
+👷 Open to offers
 <br><br>
 ### 🛠  Currently working on
 💬 [Moofee](https://github.com/allenvox/moofee) — Telegram chatbot. Stack: Golang, [go-telegram-bot-api](https://github.com/go-telegram-bot-api)
 <br>
 🔌 [Fine](https://github.com/allenvox/fine) — Minecraft plugin. Stack: Apache Maven, Spigot API, Google Gson
 <br>
-🌐 [Networks]() — SibSUTIS class repo. Stack: MikroTik, VirtualBox, AstraLinux
+🌐 [Networks](https://github.com/allenvox/networks) — university class repo. Stack: MikroTik, VirtualBox, AstraLinux
+<br>
+🖥️ [Simple Computer](https://github.com/allenvox/simple-computer) — Computer Architecture class repo. Stack: C, GitLab
 <br><br>
 ### ✍  Currently learning
 ![c](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white)
