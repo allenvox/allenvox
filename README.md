@@ -37,7 +37,8 @@
 🖥️ [Simple Computer](https://github.com/allenvox/simple-computer) — Computer Architecture class repo. Stack: C, GitLab CI
 <br><br>
 ### 🛠 Projects
-[Steam UI 2013](https://github.com/allenvox/SteamUI-2013) — bundle of Steam Inteface Skin, Steam Library CSS and Steam Friends UIs from 2013. Stack: CSS<br>
+[Steam UI 2013](https://github.com/allenvox/SteamUI-2013) — bundle of Steam Inteface Skin, Steam Library CSS and Steam Friends UIs from 2013, March 2023. Stack: CSS<br>
+[Chord Method](https://github.com/allenvox/chord-method) - for approximate solving of nonlinear equations, March 2023. Stack: C++<br>
 [Seidel Method](https://github.com/allenvox/seidel-method) — for approximate solving systems of linear equations, March 2023. Stack: C++<br>
 [Paper Server](https://github.com/allenvox/paper-server) — configured Minecraft 1.19.3 server template. Stack: PaperMC core, Bash<br>
 [Gaussian Eliminations](https://github.com/allenvox/gaussian-eliminations) — for solving systems of linear equations, February 2023. Stack: C++<br>
