@@ -37,6 +37,8 @@
 🖥️ [Simple Computer](https://github.com/allenvox/simple-computer) — Computer Architecture class repo. Stack: C, GitLab CI
 <br><br>
 ### 🛠 Projects
+[Riemann Sum](https://github.com/allenvox/riemann-sum) — for approximate calculating an integral by a finite sum using left rule, March 2023. Stack: C++<br>
+[Lagrange Polynomial](https://github.com/allenvox/lagrange-polynomial) — for approximate finding function values, March 2023. Stack: C++<br>
 [Steam UI 2013](https://github.com/allenvox/SteamUI-2013) — bundle of Steam Inteface Skin, Steam Library CSS and Steam Friends UIs from 2013, March 2023. Stack: CSS<br>
 [Chord Method](https://github.com/allenvox/chord-method) - for approximate solving of nonlinear equations, March 2023. Stack: C++<br>
 [Seidel Method](https://github.com/allenvox/seidel-method) — for approximate solving systems of linear equations, March 2023. Stack: C++<br>
