@@ -27,15 +27,6 @@
 <br>
 ![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
 <br><br>
-### 🛠  Currently working on
-💬 [Moofee](https://github.com/allenvox/moofee) — Telegram chatbot. Stack: Golang, [go-telegram-bot-api](https://github.com/go-telegram-bot-api)
-<br>
-🔌 [Fine](https://github.com/allenvox/fine) — Minecraft plugin. Stack: Apache Maven, Spigot API, Google Gson
-<br>
-🌐 [Networks](https://github.com/allenvox/networks) — university class repo. Stack: MikroTik, VirtualBox, AstraLinux
-<br>
-🖥️ [Simple Computer](https://github.com/allenvox/simple-computer) — Computer Architecture class repo. Stack: C, GitLab CI
-<br><br>
 ### 🛠 Projects
 [Riemann Sum](https://github.com/allenvox/riemann-sum) — for approximate calculating an integral by a finite sum using left rule, March 2023. Stack: C++<br>
 [Lagrange Polynomial](https://github.com/allenvox/lagrange-polynomial) — for approximate finding function values, March 2023. Stack: C++<br>
