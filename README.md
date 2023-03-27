@@ -28,7 +28,8 @@
 ![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
 <br><br>
 ### 🛠 Projects
-[Riemann Sum](https://github.com/allenvox/riemann-sum) — for approximate calculating an integral by a finite sum using left rule, March 2023. Stack: C++<br>
+[Parallel Integration](https://github.com/allenvox/parallel-integration) — multithreaded numerical integrals calculation using Riemann sum and Monte-Carlo method, March 2023. Stack: C, OpenMP<br>
+[Left Riemann sum](https://github.com/allenvox/left-riemann-sum) — for approximate calculating an integral by a finite sum using left rule, March 2023. Stack: C++<br>
 [Lagrange Polynomial](https://github.com/allenvox/lagrange-polynomial) — for approximate finding function values, March 2023. Stack: C++<br>
 [dgemv](https://github.com/allenvox/dgemv) — parallel/multithreaded matrix-vector product calculation, March 2023. Stack: C, OpenMP<br>
 [Steam UI 2013](https://github.com/allenvox/SteamUI-2013) — bundle of Steam Inteface Skin, Steam Library CSS and Steam Friends UIs from 2013, March 2023. Stack: CSS<br>
