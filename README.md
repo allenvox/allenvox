@@ -11,24 +11,35 @@
 ![c](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white)
 ![cpp](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white)
 ![golang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
+![openmp](https://img.shields.io/badge/-OpenMP%20-black)
 <br><br>
 ### 💡  Other skills
+![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![html](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
+![wordpress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
 ![swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=flat&logo=swift&logoColor=white)
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![bash](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat&logo=gnu-bash&logoColor=white)
 ![mathan](https://img.shields.io/badge/-math%20analysis-blue)
 ![funcan](https://img.shields.io/badge/-functional%20analysis-blue)
 ![physics](https://img.shields.io/badge/-physics-blueviolet)
+![apache maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
+![apache http server](https://img.shields.io/badge/Apache%20HTTP%20Server-%23D42029.svg?style=flat&logo=apache&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+![actions / ci-cd](https://img.shields.io/badge/CI/CD-%23121011.svg?style=flat&logo=github&logoColor=white)
+![mikrotik](https://img.shields.io/badge/-mikrotik-black)
+![markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 <br>
 ![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
 <br><br>
 ### 🛠 Projects
-[Parallel Integration](https://github.com/allenvox/parallel-integration) — multithreaded numerical integrals calculation using Riemann sum and Monte-Carlo method, March 2023. Stack: C, OpenMP<br>
+[nbody](https://github.com/allenvox/nbody) — parallel/multithreaded computing of n-body simulation, April 2023. Stack: C, OpenMP<br>
+[Parallel Integration](https://github.com/allenvox/parallel-integration) — multithreaded numerical integrals calculation w/ Riemann sum & Monte-Carlo method, March 2023. Stack: C, OpenMP<br>
 [Left Riemann sum](https://github.com/allenvox/left-riemann-sum) — for approximate calculating an integral by a finite sum using left rule, March 2023. Stack: C++<br>
 [Lagrange Polynomial](https://github.com/allenvox/lagrange-polynomial) — for approximate finding function values, March 2023. Stack: C++<br>
 [dgemv](https://github.com/allenvox/dgemv) — parallel/multithreaded matrix-vector product calculation, March 2023. Stack: C, OpenMP<br>
