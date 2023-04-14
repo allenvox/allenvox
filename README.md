@@ -38,7 +38,7 @@
 ![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
 <br><br>
 ### 🛠 Projects
-[nbody](https://github.com/allenvox/nbody) — parallel/multithreaded computing of n-body simulation, April 2023. Stack: C, OpenMP<br>
+[n-body](https://github.com/allenvox/n-body) — parallel/multithreaded computing of n-body simulation, April 2023. Stack: C, OpenMP<br>
 [Parallel Integration](https://github.com/allenvox/parallel-integration) — multithreaded numerical integrals calculation w/ Riemann sum & Monte-Carlo method, March 2023. Stack: C, OpenMP<br>
 [Left Riemann sum](https://github.com/allenvox/left-riemann-sum) — for approximate calculating an integral by a finite sum using left rule, March 2023. Stack: C++<br>
 [Lagrange Polynomial](https://github.com/allenvox/lagrange-polynomial) — for approximate finding function values, March 2023. Stack: C++<br>
@@ -48,7 +48,7 @@
 [Seidel Method](https://github.com/allenvox/seidel-method) — for approximate solving systems of linear equations, March 2023. Stack: C++<br>
 [branch-lower-bound](https://github.com/allenvox/branch-lower-bound) — removing conditional branching to reduce processor branch misses, February 2023. Stack: C<br>
 [Pipeline Loop Unrolling](https://github.com/allenvox/pipeline-loop-unrolling) — loop unrolling for multicore faster data processing, February 2023. Stack: C<br>
-[Paper Server](https://github.com/allenvox/paper-server) — configured Minecraft 1.19.3 server template. Stack: PaperMC core, Bash<br>
+[Paper Server](https://github.com/allenvox/paper-server) — configured Minecraft 1.19.4 server template. Stack: PaperMC core, Bash<br>
 [cache-dgemm](https://github.com/allenvox/cache-dgemm) — speed & cache-hits optimisations for matrixes multiplying, February 2023. Stack: C<br>
 [Gaussian Eliminations](https://github.com/allenvox/gaussian-eliminations) — for solving systems of linear equations, February 2023. Stack: C++<br>
 [Fibonacci Heap](https://github.com/allenvox/fibonacci-heap) — data structure, December 2022. Stack: C<br>
