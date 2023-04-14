@@ -10,12 +10,12 @@
 ### ✍  Currently learning
 ![c](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white)
 ![cpp](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white)
-![golang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
 ![openmp](https://img.shields.io/badge/-OpenMP%20-black)
 <br><br>
 ### 💡  Other skills
 ![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
+![golang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![html](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
@@ -31,9 +31,12 @@
 ![apache http server](https://img.shields.io/badge/Apache%20HTTP%20Server-%23D42029.svg?style=flat&logo=apache&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-![actions / ci-cd](https://img.shields.io/badge/CI/CD-%23121011.svg?style=flat&logo=github&logoColor=white)
+![ci-cd](https://img.shields.io/badge/CI/CD-%23121011.svg?style=flat&logo=github&logoColor=white)
+![unit testing](https://img.shields.io/badge/-unit%20testing-brightgreen)
 ![mikrotik](https://img.shields.io/badge/-mikrotik-black)
 ![markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+![data structures](https://img.shields.io/badge/-data%20structures-blue)
+![algorithms](https://img.shields.io/badge/-algorithms-red)
 <br>
 ![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
 <br><br>
