@@ -42,7 +42,9 @@
 ![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
 <br><br>
 ### 🛠 Projects
-[functional analysis](https://github.com/allenvox/functional-analysis) — tasks for university class, March-May 2023. Stack: MatLab<br>
+[Functional analysis](https://github.com/allenvox/functional-analysis) — tasks for university class, March-May 2023. Stack: MatLab<br>
+[Simple Computer](https://github.com/allenvox/simple-computer) — basic implementation of a working computer architecture, April 2023. Stack: C, CTest<br>
+[Task Parallelism](https://github.com/allenvox/task-parallelism) — parallel/multithreaded quicksort algorithm, April 2023. Stack: C, OpenMP<br>
 [n-body](https://github.com/allenvox/n-body) — parallel/multithreaded computing of n-body simulation, April 2023. Stack: C, OpenMP<br>
 [SEIR-D model](https://github.com/allenvox/seird-model) — solving system of differential equations w/ modified Euler method, April 2023. Stack: C++<br>
 [Parallel Integration](https://github.com/allenvox/parallel-integration) — multithreaded numerical integrals calculation w/ Riemann sum & Monte-Carlo method, March 2023. Stack: C, OpenMP<br>
