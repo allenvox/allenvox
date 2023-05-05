@@ -42,6 +42,7 @@
 ![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
 <br><br>
 ### 🛠 Projects
+[R-tree](https://github.com/allenvox/rtree) — data structure implementation, May-June 2023. Stack: C<br>
 [Functional Analysis](https://github.com/allenvox/functional-analysis) — tasks for university class, March-May 2023. Stack: MatLab<br>
 [Simple Computer](https://github.com/allenvox/simple-computer) — basic implementation of a working computer architecture, April-May 2023. Stack: C, CTest<br>
 [Task Parallelism](https://github.com/allenvox/task-parallelism) — parallel/multithreaded quicksort algorithm, April 2023. Stack: C, OpenMP<br>
