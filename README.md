@@ -42,13 +42,14 @@
 ![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
 <br><br>
 ### 🛠 Projects
+[LeetCode](https://github.com/allenvox/leetcode) — LeetCode tasks solutions, May 2023 - now. Stack: C, C++, Go<br>
 [R-tree](https://github.com/allenvox/rtree) — data structure implementation, May-June 2023. Stack: C<br>
 [Functional Analysis](https://github.com/allenvox/functional-analysis) — tasks for university class, March-May 2023. Stack: MatLab<br>
 [Simple Computer](https://github.com/allenvox/simple-computer) — basic implementation of a working computer architecture, April-May 2023. Stack: C, CTest<br>
 [Task Parallelism](https://github.com/allenvox/task-parallelism) — parallel/multithreaded quicksort algorithm, April 2023. Stack: C, OpenMP<br>
 [N-body](https://github.com/allenvox/n-body) — parallel/multithreaded computing of n-body simulation, April 2023. Stack: C, OpenMP<br>
 [SEIR-D model](https://github.com/allenvox/seird-model) — solving system of differential equations w/ modified Euler method, April 2023. Stack: C++<br>
-[Parallel Integration](https://github.com/allenvox/parallel-integration) — multithreaded numerical integrals calculation w/ Riemann sum & Monte-Carlo method, March 2023. Stack: C, OpenMP<br>
+[Parallel Integration](https://github.com/allenvox/parallel-integration) — Riemann sum & Monte-Carlo methods application for integrals solving, March 2023. Stack: C, OpenMP<br>
 [Left Riemann sum](https://github.com/allenvox/left-riemann-sum) — for approximate calculating an integral by a finite sum using left rule, March 2023. Stack: C++<br>
 [Lagrange Polynomial](https://github.com/allenvox/lagrange-polynomial) — for approximate finding function values, March 2023. Stack: C++<br>
 [dgemv](https://github.com/allenvox/dgemv) — parallel/multithreaded matrix-vector product calculation, March 2023. Stack: C, OpenMP<br>
