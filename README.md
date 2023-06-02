@@ -42,6 +42,7 @@
 ![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
 <br><br>
 ### 🛠 Projects
+[allenvox.github.io](https://github.com/allenvox/allenvox.github.io) — personal website, June 2023 - now. Stack: HTML, CSS, JS<br>
 [LeetCode](https://github.com/allenvox/leetcode) — LeetCode tasks solutions, May 2023 - now. Stack: C, C++, Go<br>
 [R-tree](https://github.com/allenvox/rtree) — data structure implementation, May-June 2023. Stack: C<br>
 [Functional Analysis](https://github.com/allenvox/functional-analysis) — tasks for university class, March-May 2023. Stack: MatLab<br>
