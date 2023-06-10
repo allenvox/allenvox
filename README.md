@@ -3,7 +3,7 @@
 <br>
 ❗ Majors — System Programming, Fundamental Informatics
 <br>
-🗣 Spoken languages: 🇷🇺 Russian (native), 🇬🇧🇺🇸 English (C1), 🇩🇪 German (C1 — confirmed ZfA DSD II diploma)
+🗣 Spoken languages: 🇷🇺 Russian — native, 🇬🇧🇺🇸 English — C1 (Advanced), 🇩🇪 German — C1 ([ZfA DSD II](https://www.auslandsschulwesen.de/Webs/ZfA/DE/Deutsch-lernen/DSD/DSD-II/dsd-II_node.html) certificate)
 <br>
 👷 Open to offers
 <br><br>
@@ -38,7 +38,7 @@
 ![markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![unit testing](https://img.shields.io/badge/-unit%20testing-brightgreen)
 ![OOP](https://img.shields.io/badge/-OOP-brightgreen)
-<br>
+<br><br>
 [![LeetCode user allenvox](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fallenvox&logo=leetcode&logoColor=yellow)](https://leetcode.com/allenvox/)
 ![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
 <br><br>
