@@ -1,11 +1,11 @@
 ### 🔖  Bio
-📖 Third-year student at **SibSUTIS** (Siberian State University of Telecommunications and Information Sciences) in Novisibirsk 🇷🇺
+📖 Third-year student at **SibSUTIS** (Siberian State University of Telecommunications and Information Sciences) in Novosibirsk 🇷🇺
 <br>
 ❗ **Majors**: System Programming, Fundamental Informatics
 <br>
 🗣 **Languages**: 🇷🇺 Russian — native, 🇬🇧🇺🇸 English — C1 (Advanced), 🇩🇪 German — C1 (Advanced, [ZfA DSD II](https://www.auslandsschulwesen.de/Webs/ZfA/DE/Deutsch-lernen/DSD/DSD-II/dsd-II_node.html) certificate)
 <br>
-👷 Open to offers
+👷 Open to offers —> check out my [CV](https://allenvox.github.io/docs/grigoryev-cv-2023-en.pdf)
 <br>
 ### ✍  Currently learning
 ![c](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white)
