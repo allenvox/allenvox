@@ -1,17 +1,17 @@
 ### 🔖  Bio
-📖 Student at Siberian State University of Telecommunications and Information Sciences (SibSUTIS) — Novisibirsk, Russia
+📖 Third-year student at **SibSUTIS** (Siberian State University of Telecommunications and Information Sciences) in Novisibirsk 🇷🇺
 <br>
-❗ Majors — System Programming, Fundamental Informatics
+❗ **Majors**: System Programming, Fundamental Informatics
 <br>
-🗣 Spoken languages: 🇷🇺 Russian — native, 🇬🇧🇺🇸 English — C1 (Advanced), 🇩🇪 German — C1 (Advanced — [ZfA DSD II](https://www.auslandsschulwesen.de/Webs/ZfA/DE/Deutsch-lernen/DSD/DSD-II/dsd-II_node.html) certificate)
+🗣 **Languages**: 🇷🇺 Russian — native, 🇬🇧🇺🇸 English — C1 (Advanced), 🇩🇪 German — C1 (Advanced, [ZfA DSD II](https://www.auslandsschulwesen.de/Webs/ZfA/DE/Deutsch-lernen/DSD/DSD-II/dsd-II_node.html) certificate)
 <br>
 👷 Open to offers
-<br><br>
+<br>
 ### ✍  Currently learning
 ![c](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white)
 ![cpp](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white)
 ![openmp](https://img.shields.io/badge/-OpenMP%20-black)
-<br><br>
+<br>
 ### 💡  Other skills
 ![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
@@ -38,10 +38,10 @@
 ![markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![unit testing](https://img.shields.io/badge/-unit%20testing-brightgreen)
 ![OOP](https://img.shields.io/badge/-OOP-brightgreen)
-<br><br>
+<br>
 [![LeetCode user allenvox](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fallenvox&logo=leetcode&logoColor=yellow)](https://leetcode.com/allenvox/)
 ![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
-<br><br>
+<br>
 ### 🛠 Projects
 [Personal Website](https://github.com/allenvox/allenvox.github.io) [(here)](https://allenvox.github.io) (June 2023 - now). Stack: HTML, CSS, JS<br>
 [LeetCode tasks solutions](https://github.com/allenvox/leetcode) (May 2023 - now). Stack: C, C++, Go<br>
