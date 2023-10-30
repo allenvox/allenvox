@@ -7,27 +7,20 @@
 <br>
 👷 Open to offers —> check out my [CV](https://allenvox.github.io/docs/grigoryev-cv-2023-en.pdf)
 <br>
-### ✍  Currently learning
+### ✍  Currently using
 ![cpp](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white)
 ![mpi](https://img.shields.io/badge/-MPI%20-blue)
-<br>
-### 💡  Main skills
-![c](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white)
-![openmp](https://img.shields.io/badge/-OpenMP%20-blue)
-![golang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
+![gtest](https://img.shields.io/badge/-gtest-orange)
 ![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
 ![gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 ![ci-cd](https://img.shields.io/badge/CI/CD-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![bash](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat&logo=gnu-bash&logoColor=white)
-![data structures](https://img.shields.io/badge/-data%20structures-blue)
-![algorithms](https://img.shields.io/badge/-algorithms-blue)
-![mathan](https://img.shields.io/badge/-math%20analysis-blue)
-![funcan](https://img.shields.io/badge/-functional%20analysis-blue)
-![unit testing](https://img.shields.io/badge/-unit%20testing-brightgreen)
-![OOP](https://img.shields.io/badge/-OOP-brightgreen)
 <br>
-### 💡 Other
+### 💡 Other skills
+![golang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
+![c](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white)
+![openmp](https://img.shields.io/badge/-OpenMP%20-blue)
 ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
@@ -35,17 +28,15 @@
 ![html](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
 ![wordpress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
-![apache maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
 ![apache http server](https://img.shields.io/badge/Apache%20HTTP%20Server-%23D42029.svg?style=flat&logo=apache&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![mikrotik](https://img.shields.io/badge/-mikrotik-black)
-![markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-![physics](https://img.shields.io/badge/-physics-blueviolet)
 <br>
 [![LeetCode user allenvox](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fallenvox&logo=leetcode&logoColor=yellow)](https://leetcode.com/allenvox/)
 ![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
 <br>
 ### 🛠 Notable projects
+[MPI Examples](https://github.com/allenvox/mpi-examples) (September 2023 - now). Stack: C++, MPI<br>
 [Pearson Correlation](https://github.com/allenvox/pearson-correlation) (September 2023). Stack: C++<br>
 [R-tree data structure](https://github.com/allenvox/rtree) (May - June 2023). Stack: C<br>
 [Functional Analysis tasks](https://github.com/allenvox/functional-analysis) (March - May 2023). Stack: MatLab<br>
