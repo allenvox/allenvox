@@ -25,9 +25,6 @@
 ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=flat&logo=swift&logoColor=white)
-![html](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
-![wordpress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
 ![apache http server](https://img.shields.io/badge/Apache%20HTTP%20Server-%23D42029.svg?style=flat&logo=apache&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![mikrotik](https://img.shields.io/badge/-mikrotik-black)
@@ -37,7 +34,6 @@
 <br>
 ### 🛠 Notable projects
 [MPI Examples](https://github.com/allenvox/mpi-examples) (September 2023 - now). Stack: C++, MPI<br>
-[Pearson Correlation](https://github.com/allenvox/pearson-correlation) (September 2023). Stack: C++<br>
 [R-tree data structure](https://github.com/allenvox/rtree) (May - June 2023). Stack: C<br>
 [Functional Analysis tasks](https://github.com/allenvox/functional-analysis) (March - May 2023). Stack: MatLab<br>
 [Simple Computer architecture](https://github.com/allenvox/simple-computer) (April - May 2023). Stack: C, CTest<br>
