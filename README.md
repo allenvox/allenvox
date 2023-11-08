@@ -11,11 +11,12 @@
 ![cpp](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white)
 ![mpi](https://img.shields.io/badge/-MPI%20-blue)
 ![gtest](https://img.shields.io/badge/-gtest-orange)
-![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
+![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/%20%EF%A3%BF%20macOS-black)
 ![gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 ![ci-cd](https://img.shields.io/badge/CI/CD-%23121011.svg?style=flat&logo=github&logoColor=white)
-![bash](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat&logo=gnu-bash&logoColor=white)
+![bash](https://img.shields.io/badge/zsh%20-%23121011.svg?&style=flat&logo=gnu-bash&logoColor=white)
 <br>
 ### 💡 Other skills
 ![golang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
