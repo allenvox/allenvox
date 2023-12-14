@@ -34,7 +34,7 @@
 ![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
 <br>
 ### 🛠 Notable projects
-private [Full-text search](https://github.com/allenvox/full-text-search) (September - December 2023). Stack: C++, CMake, Python<br>
+[Full-text search](https://github.com/allenvox/full-text-search) (September - December 2023). Stack: C++, CMake, Python<br>
 [Inverse Matrix](https://github.com/allenvox/mpi-inverse-matrix) (November - December 2023). Stack: C++, MPI<br>
 [MPI Examples](https://github.com/allenvox/mpi-examples) (September 2023 - now). Stack: C++, MPI<br>
 [R-tree data structure](https://github.com/allenvox/rtree) (May - June 2023). Stack: C<br>
