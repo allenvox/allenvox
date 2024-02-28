@@ -5,12 +5,15 @@
 <br>
 🗣 **Languages**: 🇷🇺 Russian — native, 🇬🇧🇺🇸 English — C1 (Advanced), 🇩🇪 German — C1 (Advanced, [ZfA DSD II](https://www.auslandsschulwesen.de/Webs/ZfA/DE/Deutsch-lernen/DSD/DSD-II/dsd-II_node.html) certificate)
 <br>
-👷 Open to offers —> check out my [CV](https://allenvox.github.io/docs/grigoryev-cv-2023-en.pdf)
+👷 Open to offers —> check out my [CV](https://allenvox.github.io/docs/grigoryev-cv-2024-en.pdf)
 <br>
 ### ✍  Currently using
 ![cpp](https://img.shields.io/badge/c++-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
-![mpi](https://img.shields.io/badge/mpi-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
 ![gtest](https://img.shields.io/badge/gtest-%23F05033.svg?&style=flat&logo=google&logoColor=white)
+![python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 ![git](https://img.shields.io/badge/git-%23F05033.svg?&style=flat&logo=git&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FEE12B?style=flat&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-%23181717.svg?style=flat&logo=apple&logoColor=white)
@@ -19,9 +22,11 @@
 ![ci-cd](https://img.shields.io/badge/CI/CD-%23121011.svg?style=flat&logo=github&logoColor=white)
 <br>
 ### 💡 Other skills
+![mpi](https://img.shields.io/badge/mpi-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
 ![c](https://img.shields.io/badge/c-%2300599C.svg?&style=flat&logo=c&logoColor=white)
 ![openmp](https://img.shields.io/badge/omp-%2300599C.svg?&style=flat&logo=c&logoColor=white)
 ![golang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
+![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![nodejs](https://img.shields.io/badge/node.js-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=oracle&logoColor=white)
@@ -34,8 +39,9 @@
 ![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
 <br>
 ### 🛠 Notable projects
+[Internet Chat](https://github.com/allenvox/chat-pthread) (February 2024). Stack: C++, pthread lib<br>
 [Full-text search](https://github.com/allenvox/full-text-search) (September - December 2023). Stack: C++, CMake, Python<br>
-[Inverse Matrix](https://github.com/allenvox/mpi-inverse-matrix) (November - December 2023). Stack: C++, MPI<br>
+[Parallel Inverse Matrix](https://github.com/allenvox/mpi-inverse-matrix) (November - December 2023). Stack: C++, MPI<br>
 [MPI Examples](https://github.com/allenvox/mpi-examples) (September 2023 - now). Stack: C++, MPI<br>
 [R-tree data structure](https://github.com/allenvox/rtree) (May - June 2023). Stack: C<br>
 [Simple Computer architecture](https://github.com/allenvox/simple-computer) (April - May 2023). Stack: C, CTest<br>
