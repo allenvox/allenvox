@@ -39,28 +39,29 @@
 ![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
 <br>
 ### 🛠 Notable projects
+[C++ String with Copy-On-Write](https://github.com/allenvox/string-cow) (April 2024). Stack: C++<br>
+[Ray Tracer](https://github.com/allenvox/ray-tracer) (March 2024). Stack: C++<br>
 [Internet Chat](https://github.com/allenvox/chat-pthread) (February 2024). Stack: C++, pthread lib<br>
-[Full-text search](https://github.com/allenvox/full-text-search) (September - December 2023). Stack: C++, CMake, Python<br>
+[Full-Text Search](https://github.com/allenvox/full-text-search) (September - December 2023). Stack: C++, CMake, Python<br>
 [Parallel Inverse Matrix](https://github.com/allenvox/mpi-inverse-matrix) (November - December 2023). Stack: C++, MPI<br>
 [MPI Examples](https://github.com/allenvox/mpi-examples) (September 2023 - now). Stack: C++, MPI<br>
-[R-tree data structure](https://github.com/allenvox/rtree) (May - June 2023). Stack: C<br>
-[Simple Computer architecture](https://github.com/allenvox/simple-computer) (April - May 2023). Stack: C, CTest<br>
+[R-Tree Data Structure](https://github.com/allenvox/rtree) (May - June 2023). Stack: C<br>
+[Simple Computer Architecture](https://github.com/allenvox/simple-computer) (April - May 2023). Stack: C, CTest<br>
 [Parallel quickSort](https://github.com/allenvox/task-parallelism) (April 2023). Stack: C, OpenMP<br>
-[Parallel N-body simulation](https://github.com/allenvox/n-body) (April 2023). Stack: C, OpenMP<br>
-[COVID-19 SEIR-D model (diff. equations)](https://github.com/allenvox/seird-model) (April 2023). Stack: C++<br>
+[Parallel N-body Simulation](https://github.com/allenvox/n-body) (April 2023). Stack: C, OpenMP<br>
+[COVID-19 SEIR-D Model (diff. equations)](https://github.com/allenvox/seird-model) (April 2023). Stack: C++<br>
 [Parallel Riemann sum & Monte-Carlo methods](https://github.com/allenvox/parallel-integration) (March 2023). Stack: C, OpenMP<br>
-[Left Riemann sum (integration)](https://github.com/allenvox/left-riemann-sum) (March 2023). Stack: C++<br>
+[Left Riemann Sum (integration)](https://github.com/allenvox/left-riemann-sum) (March 2023). Stack: C++<br>
 [Lagrange Polynomial (approx. function values)](https://github.com/allenvox/lagrange-polynomial) (March 2023). Stack: C++<br>
 [Parallel dgemv](https://github.com/allenvox/dgemv) (March 2023). Stack: C, OpenMP<br>
 [Chord Method (nonlinear equations)](https://github.com/allenvox/chord-method) (March 2023). Stack: C++<br>
 [Seidel Method (linear equations)](https://github.com/allenvox/seidel-method) (March 2023). Stack: C++<br>
-[Cache optimisations for dgemm](https://github.com/allenvox/cache-dgemm) (February 2023). Stack: C<br>
+[Cache Optimisations for dgemm](https://github.com/allenvox/cache-dgemm) (February 2023). Stack: C<br>
 [Gaussian Eliminations (linear equations)](https://github.com/allenvox/gaussian-eliminations) (February 2023). Stack: C++<br>
-[Fibonacci Heap data structure](https://github.com/allenvox/fibonacci-heap) (December 2022). Stack: C<br>
-[Bloom Filter data structure](https://github.com/allenvox/bloom-filter) (December 2022). Stack: C<br>
-[String C++ Class](https://github.com/allenvox/string) (December 2022). Stack: C++<br>
-[Prefix Tree (trie) data structure](https://github.com/allenvox/prefix-tree) (November 2022). Stack: C<br>
-[Red-Black Tree data structure](https://github.com/allenvox/red-black-tree) (October 2022). Stack: C<br>
+[Fibonacci Heap Data Structure](https://github.com/allenvox/fibonacci-heap) (December 2022). Stack: C<br>
+[Bloom Filter Data Structure](https://github.com/allenvox/bloom-filter) (December 2022). Stack: C<br>
+[Prefix Tree (trie) Data Structure](https://github.com/allenvox/prefix-tree) (November 2022). Stack: C<br>
+[Red-Black Tree Data Structure](https://github.com/allenvox/red-black-tree) (October 2022). Stack: C<br>
 [Password Generator](https://github.com/allenvox/pawg) (May 2022). Stack: C<br>
 <br>
 (latest projects are pinned below)
