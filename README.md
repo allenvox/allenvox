@@ -62,6 +62,6 @@
 [Bloom Filter Data Structure](https://github.com/allenvox/bloom-filter) (December 2022). Stack: C<br>
 [Prefix Tree (trie) Data Structure](https://github.com/allenvox/prefix-tree) (November 2022). Stack: C<br>
 [Red-Black Tree Data Structure](https://github.com/allenvox/red-black-tree) (October 2022). Stack: C<br>
-[Password Generator](https://github.com/allenvox/pawg) (May 2022). Stack: C<br>
+[Password Generator](https://github.com/allenvox/pwgen) (May 2022). Stack: C<br>
 <br>
 (latest projects are pinned below)
