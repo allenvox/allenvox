@@ -1,5 +1,5 @@
 ### 🔖  Bio
-📖 Third-year student at **SibSUTIS** (Siberian State University of Telecommunications and Information Sciences) in Novosibirsk 🇷🇺
+📖 Senior student at **SibSUTIS** (Siberian State University of Telecommunications and Information Sciences) in Novosibirsk 🇷🇺
 <br>
 ❗ **Majors**: System Programming, Fundamental Informatics
 <br>
