@@ -7,34 +7,28 @@
 <br>
 👷 Open to offers —> check out my [CV](https://allenvox.github.io/docs/grigoryev-cv-2024-en.pdf)
 <br>
-### ✍  Currently using
-![cpp](https://img.shields.io/badge/c++-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?&style=flat&logo=Qt&logoColor=white)
-![gtest](https://img.shields.io/badge/gtest-%23F05033.svg?&style=flat&logo=google&logoColor=white)
-![git](https://img.shields.io/badge/git-%23F05033.svg?&style=flat&logo=git&logoColor=white)
-![linux](https://img.shields.io/badge/linux-FEE12B?style=flat&logo=linux&logoColor=black)
+### ✍  Currently working with
+![swift](https://img.shields.io/badge/Swift-%23FA7343.svg?&style=flat&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-%23181717.svg?style=flat&logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-%23181717.svg?style=flat&logo=apple&logoColor=white)
-![bash](https://img.shields.io/badge/bash-%23181717.svg?&style=flat&logo=gnu-bash&logoColor=white)
-![gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-![ci-cd](https://img.shields.io/badge/CI/CD-%23121011.svg?style=flat&logo=github&logoColor=white)
+![cpp](https://img.shields.io/badge/C++-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
 <br>
 ### 💡 Have experience with
-![mpi](https://img.shields.io/badge/mpi-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
-![c](https://img.shields.io/badge/c-%2300599C.svg?&style=flat&logo=c&logoColor=white)
-![openmp](https://img.shields.io/badge/omp-%2300599C.svg?&style=flat&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![mpi](https://img.shields.io/badge/MPI-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
+![c](https://img.shields.io/badge/C-%2300599C.svg?&style=flat&logo=c&logoColor=white)
+![openmp](https://img.shields.io/badge/OpenMP-%2300599C.svg?&style=flat&logo=c&logoColor=white)
 ![golang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
-![nodejs](https://img.shields.io/badge/node.js-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
+![nodejs](https://img.shields.io/badge/Node.js-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=oracle&logoColor=white)
-![swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=flat&logo=swift&logoColor=white)
 ![mikrotik](https://img.shields.io/badge/mikrotik-%23181717.svg?style=flat&logo=mikrotik&logoColor=white)
-<br>
-[![LeetCode user allenvox](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fallenvox&logo=leetcode&logoColor=yellow)](https://leetcode.com/allenvox/)
-![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
+<br><br>
+[![LeetCode user allenvox](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fallenvox&logo=leetcode&logoColor=yellow)](https://leetcode.com/allenvox/) ![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
 <br>
 ### 🛠 Notable projects
 [C++ String with Copy-On-Write](https://github.com/allenvox/string-cow) (April 2024). Stack: C++<br>
