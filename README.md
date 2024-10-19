@@ -5,12 +5,9 @@
 <br>
 🗣 **Languages**: 🇷🇺 Russian — native, 🇬🇧🇺🇸 English — C1 (Advanced), 🇩🇪 German — C1 (Advanced, [ZfA DSD II](https://www.auslandsschulwesen.de/Webs/ZfA/DE/Deutsch-lernen/DSD/DSD-II/dsd-II_node.html) certificate)
 <br>
-👷 Open to offers —> check out my [CV](https://allenvox.github.io/docs/grigoryev-cv-2024-en.pdf)
+👷 Closed to offers but check out my [CV](https://allenvox.github.io/docs/grigoryev-cv-2024-en.pdf) anyway
 <br>
 ### ✍  Currently working with
-![swift](https://img.shields.io/badge/Swift-%23FA7343.svg?&style=flat&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-%23181717.svg?style=flat&logo=apple&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-%23181717.svg?style=flat&logo=apple&logoColor=white)
 ![cpp](https://img.shields.io/badge/C++-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
 <br>
@@ -19,6 +16,8 @@
 ![mpi](https://img.shields.io/badge/MPI-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
 ![c](https://img.shields.io/badge/C-%2300599C.svg?&style=flat&logo=c&logoColor=white)
 ![openmp](https://img.shields.io/badge/OpenMP-%2300599C.svg?&style=flat&logo=c&logoColor=white)
+![swift](https://img.shields.io/badge/Swift-%23FA7343.svg?&style=flat&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-%23181717.svg?style=flat&logo=apple&logoColor=white)
 ![golang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
