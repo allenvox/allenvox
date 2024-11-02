@@ -1,31 +1,24 @@
 ### 🔖  Bio
-📖 Senior student at **SibSUTIS** (Siberian State University of Telecommunications and Information Sciences) in Novosibirsk 🇷🇺
+👷 Trainee C++ developer at **[Eltex](https://eltex-co.ru)**
 <br>
-❗ **Majors**: System Programming, Fundamental Informatics
+📖 Senior student at **SibSUTIS** in Novosibirsk 🇷🇺
 <br>
 🗣 **Languages**: 🇷🇺 Russian — native, 🇬🇧🇺🇸 English — C1 (Advanced), 🇩🇪 German — C1 (Advanced, [ZfA DSD II](https://www.auslandsschulwesen.de/Webs/ZfA/DE/Deutsch-lernen/DSD/DSD-II/dsd-II_node.html) certificate)
-<br>
-👷 Closed to offers but check out my [CV](https://allenvox.github.io/docs/grigoryev-cv-2024-en.pdf) anyway
 <br>
 ### ✍  Currently working with
 ![cpp](https://img.shields.io/badge/C++-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
+![python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 <br>
 ### 💡 Have experience with
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![mpi](https://img.shields.io/badge/MPI-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
 ![c](https://img.shields.io/badge/C-%2300599C.svg?&style=flat&logo=c&logoColor=white)
 ![openmp](https://img.shields.io/badge/OpenMP-%2300599C.svg?&style=flat&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![swift](https://img.shields.io/badge/Swift-%23FA7343.svg?&style=flat&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-%23181717.svg?style=flat&logo=apple&logoColor=white)
 ![golang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
-![nodejs](https://img.shields.io/badge/Node.js-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
-![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=oracle&logoColor=white)
-![mikrotik](https://img.shields.io/badge/mikrotik-%23181717.svg?style=flat&logo=mikrotik&logoColor=white)
 <br><br>
 [![LeetCode user allenvox](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fallenvox&logo=leetcode&logoColor=yellow)](https://leetcode.com/allenvox/) ![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
 <br>
