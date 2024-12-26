@@ -1,28 +1,20 @@
 ### 🔖  Bio
-👷 Trainee C++ developer at **[Eltex](https://eltex-co.ru)**
+👷 C++ developer at **[Eltex](https://eltex-co.ru)**
 <br>
-📖 Senior student at **SibSUTIS** in Novosibirsk 🇷🇺
-<br>
-🗣 **Languages**: 🇷🇺 Russian — native, 🇬🇧🇺🇸 English — C1 (Advanced), 🇩🇪 German — C1 (Advanced, [ZfA DSD II](https://www.auslandsschulwesen.de/Webs/ZfA/DE/Deutsch-lernen/DSD/DSD-II/dsd-II_node.html) certificate)
+📖 Senior student at **SibSUTIS** in Novosibirsk, Russia
 <br>
 ### ✍  Currently working with
 ![cpp](https://img.shields.io/badge/C++-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
-![python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-<br>
-### 💡 Have experience with
-![mpi](https://img.shields.io/badge/MPI-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
 ![c](https://img.shields.io/badge/C-%2300599C.svg?&style=flat&logo=c&logoColor=white)
-![openmp](https://img.shields.io/badge/OpenMP-%2300599C.svg?&style=flat&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![swift](https://img.shields.io/badge/Swift-%23FA7343.svg?&style=flat&logo=swift&logoColor=white)
-![golang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
-![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 <br><br>
 [![LeetCode user allenvox](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fallenvox&logo=leetcode&logoColor=yellow)](https://leetcode.com/allenvox/) ![codewars badge](https://www.codewars.com/users/allenvox/badges/small)
 <br>
 ### 🛠 Notable projects
+[Neural Networks](https://github.com/allenvox/neural) (October 2024 - now). Stack: Python, Pytorch, Numpy<br>
+[LLVM Compilers](https://github.com/allenvox/llvm-compilers) (September - December 2024). Stack: C++, LLVM IR<br>
+[Webdev with ASP.NET](https://github.com/allenvox/webdev) (September - November 2024). Stack: C#, ASP.NET<br>
+[Cool-lang Compiler](https://github.com/allenvox/cool-lang-compiler) (February - June 2024). Stack: C++, flex, bison<br>
 [C++ String with Copy-On-Write](https://github.com/allenvox/string-cow) (April 2024). Stack: C++<br>
 [Ray Tracer](https://github.com/allenvox/ray-tracer) (March 2024). Stack: C++<br>
 [Internet Chat](https://github.com/allenvox/chat-pthread) (February 2024). Stack: C++, pthread lib<br>
